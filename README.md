@@ -10,7 +10,7 @@ Welcome to our React-based Admin Dashboard! This dashboard is built using React.
 - Customize dashboard layouts and widgets according to your preferences.
 
 ## Preview
-![Preview](/preview.png)
+![Preview](/public/preview.png)
 
 ## How to Use
 1. Log in to the admin dashboard using your credentials.
